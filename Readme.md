@@ -6,6 +6,7 @@
 ## Cracking the code
 
 ## Project TrackFit with updated readmefile with the tests
+Completed
 
 ## Tour of Heroes (Angular)
 
